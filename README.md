@@ -5,7 +5,7 @@
 
 ## 🕹️ 데모
 
-> 👉 [데모 보기](http://todaykeywords.kr/1to50)
+> 👉 [데모 보기](http://todaykeywords.kr/game/1to50)
 
 ## 📦 구성 파일
 
